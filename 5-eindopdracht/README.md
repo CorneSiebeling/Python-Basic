@@ -67,7 +67,7 @@ Het programma bevat alle bovenstaande elementen in een logisch consistent
 geheel. Het totale programma zal ongeveer 40 regels code groot zijn, inclusief het commentaar.
 
 De klok moet kunnen beginnen op een willekeurig tijdstip, zoals 27 minuten over 11 (ochtend of avond), kwart voor 8, etc. In andere woorden, je moet de klok
-kunnen initialiseren. Dit doe je door beginwaarden op te nemen in het programma.
+kunnen initialiserne. Dit doe je door beginwaarden op te nemen in het programma.
 Door middel van invoer van de gebruiker.
 
 ### Eindresultaat

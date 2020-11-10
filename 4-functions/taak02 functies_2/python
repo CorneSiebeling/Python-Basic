@@ -1,0 +1,8 @@
+Python 3.8.5 (tags/v3.8.5:580fbb0, Jul 20 2020, 15:57:54) [MSC v.1924 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> celsius = float(input('enter temperature in Celsius: '))
+enter temperature in Celsius: 27
+>>> fahrenheit = (celsius * 1.8) + 32
+>>> print('%0.lf Celsius is gelijk aan %0.lf graden fahrenheit'%(celsius,fahrenheit))
+27 Celsius is gelijk aan 81 graden fahrenheit
+>>> 
